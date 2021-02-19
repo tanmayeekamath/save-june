@@ -15,7 +15,11 @@
 
   "postCreateCommand": "npm install",
 
-  "extensions": ["esbenp.prettier-vscode"],
+  "extensions": [
+	"esbenp.prettier-vscode",
+	"github.github-vscode-theme",
+	"visualstudioexptteam.vscodeintellicode"
+],
 
   "forwardPorts": [3000]
 }
